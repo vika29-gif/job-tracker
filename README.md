@@ -26,7 +26,7 @@ Keeping track of job applications in a spreadsheet is frustrating. This replaces
 
 ```bash
 # Clone the repo
-git clone https://github.com/vika29-gif/job-tracker.git
+git clone https://github.com/devika-builds/job-tracker.git
 cd job-tracker
 
 # Install dependencies
@@ -48,4 +48,4 @@ This deploys to [Vercel](https://vercel.com) in about 2 minutes:
 
 ---
 
-Built by [Devika](https://github.com/vika29-gif)
+Built by [Devika](https://github.com/devika-builds)
