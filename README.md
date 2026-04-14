@@ -2,7 +2,7 @@
 
 A clean, minimal job application tracker built with React. Track your pipeline, interview stages, salary targets, and follow-up dates — all in one place, saved locally to your browser.
 
-**[→ Live Demo](https://job-tracker-vika29-gif.vercel.app)** <!-- Update with your actual Vercel URL after deploying -->
+**[→ Live Demo](https://job-tracker-kappa-hazel.vercel.app)**
 
 ---
 
